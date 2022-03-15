@@ -2,6 +2,7 @@
 
 ## Effects of Horsepower Makes On Acceleration 
 The higher the Horsepower the faster the acceleration is. This is due to the car producing more power to the wheels and engine allowing them to spin up faster. As a result of this allows the car to accelerate faster than cars with a lower horsepower. The spikes that have slower acceleration times but have higher power are more likely bigger cars. Bigger cars like trucks need more power to move their larger mass. Since they are bigger they won't accelerate as fast as a lightweight car with the same horsepower. 
+
 ![Effects of Acc on horsepower](https://user-images.githubusercontent.com/88803320/158435626-284e19e5-10d6-40eb-ad61-09d279765ccb.png)
 
 ## MPG Based On Model Year
